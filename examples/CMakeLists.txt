@@ -1,2 +1,6 @@
 add_subdirectory(helloworld)
-
+add_subdirectory(tictactoe)
+add_subdirectory(sierpinski)
+add_subdirectory(triangles)
+add_subdirectory(asteriods)
+add_subdirectory(jet-fighter)
